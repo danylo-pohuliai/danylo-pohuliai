@@ -32,11 +32,9 @@ I am an end-to-end Embedded Systems Engineer who refuses to treat hardware as a 
 </p>
 
 ### 📊 GitHub Stats & Languages
-
-
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danylo-pohuliai&show_icons=true&theme=transparent&hide_border=true&title_color=0b5394&icon_color=0b5394" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danylo-pohuliai&layout=compact&theme=transparent&hide_border=true&title_color=0b5394" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danylo-pohuliai&show_icons=true&theme=transparent&hide_border=true&title_color=0b5394&icon_color=0b5394" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danylo-pohuliai&layout=compact&theme=transparent&hide_border=true&title_color=0b5394" />
 </p>
 
 ### 📫 Let's Connect
